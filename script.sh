@@ -18,3 +18,6 @@ sudo apt-get -s dist-upgrade | grep "^Inst" | grep -i securi | awk -F " " {'prin
 
 ### install Nvidia Driver
 sudo apt install nvidia-driver-525 -y
+
+### list all GPUs
+nvidia-smi -L
