@@ -7,4 +7,4 @@ This script install nvidia driver on Ubuntu
 3. Run the script
    ./script.sh
 
-   ![Alt text](dejandro/nvidia-drivers-ubuntu/script.png)
+   ![Alt text](script.png)
