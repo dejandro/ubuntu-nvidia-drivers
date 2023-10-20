@@ -6,3 +6,5 @@ This script install nvidia driver on Ubuntu
    chmod +x script.sh
 3. Run the script
    ./script.sh
+
+   ![Alt text](/nvidia-drivers-ubuntu/script.png)
