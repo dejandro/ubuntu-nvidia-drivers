@@ -1,10 +1,9 @@
 # nvidia-drivers-ubuntu
 This script installs Nvidia driver on Ubuntu
 
-1. Download the script
-2. Make the script executable with the command
+1. Make the script executable with the command
    chmod +x script.sh
-3. Run the script
+2. Run the script
    ./script.sh
 
    <img src="script2.png" width=289 height=115)>
