@@ -1,5 +1,5 @@
 # nvidia-drivers-ubuntu
-This script install nvidia driver on Ubuntu
+This script installs Nvidia driver on Ubuntu
 
 1. Download the script
 2. Make the script executable with the command
@@ -8,7 +8,7 @@ This script install nvidia driver on Ubuntu
    ./script.sh
 
 
-   ![Alt text](script.png)
+   ![Alt text](script.png | width=100)
 
 
 Note: if you experience "NVIDIA-SMI has failed because it couldn't communicate with the NVIDIA driver. Make sure that the latest NVIDIA driver is installed and running." error, please reboot your machine.
